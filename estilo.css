@@ -1,0 +1,40 @@
+a
+{
+    margin-right: 24px;
+    
+}
+
+#Menu 
+{
+    padding-left: 24px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+
+
+    background-color: #FFE4FF;
+}
+
+body{
+    background-color:  #FFF0F5;
+    color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+
+h1{
+    color:#000000;
+}
+
+a{
+    color:#68228B;
+}
+
+h2{
+     color:#000000;
+}
+
+#rodape
+{
+    background-color: #272727;
+    text-align: center;
+}
